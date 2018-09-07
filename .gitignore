@@ -1,0 +1,13 @@
+*.jsonl.gz
+*.html
+*.zip
+*.test.lua
+*.test.py
+*.log
+*.log~
+*.pyc
+*.sublime-project
+*.sublime-workspace
+*.json
+sample.txt
+*.t7
