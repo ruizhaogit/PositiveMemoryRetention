@@ -4,6 +4,8 @@ Here is the code repository for the paper "Efficient Dialog Policy Learning via 
 
 The paper is accepted by 2018 IEEE Spoken Language Technology (SLT) (forthcoming).
 
+The preprint version of the paper is avaliable at: https://arxiv.org/abs/1810.01371
+
 ## Installation:
 
 Our code is implemented in [Torch][1] (Lua), tested with GPU, on Ubuntu 16.04.   
@@ -74,6 +76,19 @@ After testing, we obtained the following results:
 ## Conclusion:
 
 Positive Memory Retention (PMR) improves the sample-efficiency of REINFORCE by a factor of 10 on [this syntactic dataset][8].
+
+## Citation:
+
+Citation of the preprint version:
+
+```
+@article{zhao2018efficient,
+  title={Efficient Dialog Policy Learning via Positive Memory Retention},
+  author={Zhao, Rui and Tresp, Volker},
+  journal={arXiv preprint arXiv:1810.01371},
+  year={2018}
+}
+```
 
 ## Licence:
 
