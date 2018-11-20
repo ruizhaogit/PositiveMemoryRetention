@@ -6,7 +6,7 @@ The paper is accepted by 2018 IEEE Spoken Language Technology (SLT) (forthcoming
 
 The preprint version of the paper is avaliable at: https://arxiv.org/abs/1810.01371
 
-This work will be presented at NIPS 2018 Visually Grounded Interaction and Language (ViGIL) Workshop (link: https://nips2018vigil.github.io).
+This work will be presented at NIPS 2018 Visually Grounded Interaction and Language (ViGIL) Workshop.
 
 ## Installation:
 
