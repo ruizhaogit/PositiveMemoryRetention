@@ -6,7 +6,7 @@ The paper is accepted by 2018 IEEE Spoken Language Technology (SLT) (forthcoming
 
 The preprint version of the paper is avaliable at: https://arxiv.org/abs/1810.01371
 
-This work will be presented at NIPS 2018 Visually Grounded Interaction and Language (ViGIL) Workshop.
+This work was presented at NIPS 2018 Visually Grounded Interaction and Language (ViGIL) Workshop.
 
 ## Installation:
 
@@ -81,14 +81,16 @@ Positive Memory Retention (PMR) improves the sample-efficiency of REINFORCE by a
 
 ## Citation:
 
-Citation of the preprint version:
+Citation of the paper:
 
 ```
-@article{zhao2018efficient,
+@inproceedings{zhao2018efficient,
   title={Efficient Dialog Policy Learning via Positive Memory Retention},
   author={Zhao, Rui and Tresp, Volker},
-  journal={arXiv preprint arXiv:1810.01371},
-  year={2018}
+  booktitle={2018 IEEE Spoken Language Technology Workshop (SLT)},
+  pages={823--830},
+  year={2018},
+  organization={IEEE}
 }
 ```
 
