@@ -2,11 +2,11 @@
 
 Here is the code repository for the paper "Efficient Dialog Policy Learning via Positive Memory Retention".
 
-The paper is accepted by 2018 IEEE Spoken Language Technology (SLT) (forthcoming).
+The paper is published in 2018 IEEE Spoken Language Technology (SLT), link: https://ieeexplore.ieee.org/document/8639617.
 
 The preprint version of the paper is avaliable at: https://arxiv.org/abs/1810.01371
 
-This work was presented at NIPS 2018 Visually Grounded Interaction and Language (ViGIL) Workshop.
+This work was also presented at NIPS 2018 Visually Grounded Interaction and Language (ViGIL) Workshop.
 
 ## Installation:
 
